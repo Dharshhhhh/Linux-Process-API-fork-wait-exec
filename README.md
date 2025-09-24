@@ -54,8 +54,7 @@ int main() {
 ````
 
 ##OUTPUT
-![Alt text](Linux-Process-API-fork-wait-exec/img1.png)
-
+![Alt text](image-1.png)
 
 
 
@@ -136,7 +135,7 @@ int main() {
 }
 ```
 ##OUTPUT
-![Alt text](Linux-Process-API-fork-wait-exec/img2.png)
+![Alt text](image.png)
 
 # RESULT:
 The programs are executed successfully.
